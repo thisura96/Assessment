@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Avantrio_Assessment</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_to_us">New to us?</string>
+    <string name="sign_up">Sign up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="users">Users</string>
+    <string name="settings">Settings</string>
+    <string name="search_users">Search users</string>
+    <string name="update">Update</string>
+    <string name="logout">Logout</string>
+    <string name="all">All</string>
+    <string name="location">Location</string>
+    <string name="messages">Messages</string>
+    <string name="alert">Alert</string>
+    <string name="history">History</string>
+    <string name="message">Message</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="alert_view">Alert view</string>
+    <string name="distance">Distance</string>
+    <string name="calculate">Calculate</string>
+</resources>

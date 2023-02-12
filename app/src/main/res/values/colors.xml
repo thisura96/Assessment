@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="full_backgroud_color">#F5F5F5</color>
+    <color name="btn_login_color">#ff114a</color>
+    <color name="btn_disable_login_color">#ADFF114A</color>
+    <color name="app_blue">#1C2635</color>
+    <color name="app_pink">#ff114a</color>
+    <color name="logout_pink">#FF114A</color>
+
+    <color name="green">#00B981</color>
+    <color name="purple">#8F00FF</color>
+    <color name="blue">#0D82DF</color>
+    <color name="gold">#FF9900</color>
+    <color name="orange">#FF5C00</color>
+    <color name="opal_green">#015D52</color>
+    <color name="dark_blue">#1E213D</color>
+    <color name="red">#CC0605</color>
+
+
+
+    <color name="disable_nav_icon">#5C6777</color>
+    <color name="grey">#5B5B5B</color>
+
+    <color name="light_grey">#5B5B5B80</color>
+    <color name="lightest_grey">#D8D8D8</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#FFFFFFFF</color>
+</resources>

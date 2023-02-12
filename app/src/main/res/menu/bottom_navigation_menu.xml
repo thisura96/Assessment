@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/page_home"
+        android:enabled="false"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/page_user"
+        android:enabled="true"
+        android:icon="@drawable/user_selector"
+        android:title="@string/users"/>
+    <item
+        android:id="@+id/page_setting"
+        android:enabled="true"
+        android:icon="@drawable/setting_selector"
+        android:title="@string/settings"/>
+
+
+
+</menu>
